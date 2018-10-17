@@ -1,3 +1,4 @@
 document.addEventListener('DOMContentLoaded', () => {
-    console.log('terminada la carga del dom')
+    let msg = 'terminada la carga del DOM'
+    console.log(msg)
 })
