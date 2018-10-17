@@ -1,0 +1,11 @@
+{
+  "name": "proyecto_git",
+  "version": "1.0.0",
+  "description": "Ejercicio para aprender a usar Git",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Verdú",
+  "license": "ISC"
+}
