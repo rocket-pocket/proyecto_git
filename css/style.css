@@ -1,4 +1,7 @@
 body{
-    background: blue;
+    background: rgb(170, 201, 230);
     margin: 2rem;
+}
+h2{
+    color: blue;
 }
