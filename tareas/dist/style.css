@@ -1,0 +1,15 @@
+:root{
+    --colorbase: rgb(224, 171, 171);
+    --spacer: 10px;
+      --large-title: 2px;
+}
+
+.cambiar{
+    width: 3rem;
+    height: 3rem;
+    background: var(--colorbase);
+    transition: all 2s ease;
+}
+.cambiar:hover{
+    background: blue;
+}
